@@ -1,0 +1,14 @@
+2023/05/22-15:15:29.674 13bc Reusing MANIFEST D:\whatsaap\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/22-15:15:29.674 13bc Recovering log #10
+2023/05/22-15:15:29.678 13bc Reusing old log D:\whatsaap\.wwebjs_auth\session\Default\Local Storage\leveldb/000010.log 
+2023/05/22-15:17:30.187 13bc Level-0 table #13: started
+2023/05/22-15:17:30.191 13bc Level-0 table #13: 26684 bytes OK
+2023/05/22-15:17:30.193 13bc Delete type=0 #10
+2023/05/22-15:17:30.205 13bc Compacting 4@0 + 0@1 files
+2023/05/22-15:17:30.210 13bc Generated table #14@0: 61 keys, 11988 bytes
+2023/05/22-15:17:30.210 13bc Compacted 4@0 + 0@1 files => 11988 bytes
+2023/05/22-15:17:30.212 13bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/05/22-15:17:30.212 13bc Delete type=2 #3
+2023/05/22-15:17:30.212 13bc Delete type=2 #6
+2023/05/22-15:17:30.212 13bc Delete type=2 #9
+2023/05/22-15:17:30.212 13bc Delete type=2 #13
